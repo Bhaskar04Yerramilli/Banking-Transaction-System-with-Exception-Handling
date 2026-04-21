@@ -1,4 +1,5 @@
-﻿namespace BankingSystem.Exceptions
+﻿// custom exception
+namespace BankingSystem.Exceptions
 {
     public class InsufficientBalanceException : Exception
     {
