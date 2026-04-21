@@ -1,4 +1,5 @@
-﻿using BankingSystem.Exceptions;
+﻿// Deposit ans withdraw logic
+using BankingSystem.Exceptions;
 
 namespace BankingSystem
 {
