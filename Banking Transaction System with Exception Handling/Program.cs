@@ -1,4 +1,5 @@
-﻿using BankingSystem;
+﻿// BankAccount class - Core banking logic 
+using BankingSystem;
 using BankingSystem.Exceptions;
 
 class Program
